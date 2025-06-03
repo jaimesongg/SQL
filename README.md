@@ -1,1 +1,1 @@
-# SQL with Andy the Analyst on YouTube
+# MySQL with Andy the Analyst on YouTube
